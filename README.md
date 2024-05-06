@@ -1,8 +1,11 @@
 # 🚀 Carlos Baso
 
-**`Ingeniero de Software`**
+**`Software Developer`**
 
-Me motiva estar al día con las nuevas tecnologías en el ámbito del desarrollo, con una mentalidad abierta y capacidad para adaptarme rápidamente a los cambios. Dispuesto siempre a aprender cualquier tipo de nueva información con la mejor actitud y ganas de seguir creciendo.
+Soy un Ingeniero de Software que esta interesado en simepre estar al dia de las nuevas tecnologias que ofrece el mercado. Me motiva creear soluciones a problemas complejos y asu vez utilizando las mejores herramientas para la que la experiencia de usuarioo sea la mejor posible. Todo mis projectos y mas, puedes encontrarlos en mi 
+<span><a
+          target="_blank"
+          href="https://www.carlosbaso.com/">portafolio<a/><span/>.
 
 ### 🧰 Lenguajes y Herramientas
 
