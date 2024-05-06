@@ -4,7 +4,7 @@
 
 Me motiva estar al día con las nuevas tecnologías en el ámbito del desarrollo, con una mentalidad abierta y capacidad para adaptarme rápidamente a los cambios. Dispuesto siempre a aprender cualquier tipo de nueva información con la mejor actitud y ganas de seguir creciendo.
 
-### 🧰 Lenguajes y Herramientas ###
+### 🧰 Lenguajes y Herramientas
 
 <img align="left"
         alt="Next"
@@ -60,6 +60,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
         width="30px"
         style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+### 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Basso-23&show_icons=true&theme=gruvbox)
           
           
           
