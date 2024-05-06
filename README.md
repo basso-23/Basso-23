@@ -7,20 +7,13 @@ Me motiva estar al día con las nuevas tecnologías en el ámbito del desarrollo
 ### 🧰 Lenguajes y Herramientas ###
 
 <img align="left"
-        alt="tailwindcss"
+        alt="Next"
         width="30px"
-        style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+        style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left"
-        alt="tailwindcss"
+        alt="Next"
         width="30px"
-        style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />     
-<img align="left"
-        alt="tailwindcss"
-        width="30px"
-        style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+        style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left"
         alt="Next"
         width="30px"
