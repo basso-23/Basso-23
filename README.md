@@ -61,10 +61,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
         style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-### 📊 Estadísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Basso-23&show_icons=true&theme=gruvbox)
-          
           
           
       
