@@ -91,4 +91,4 @@ Me motiva estar al día con las nuevas tecnologías en el ámbito del desarrollo
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
       />
     
-      <br />
+ 
