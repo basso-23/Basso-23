@@ -6,7 +6,13 @@ Me motiva estar al día con las nuevas tecnologías en el ámbito del desarrollo
 
 ### 🧰 Lenguajes y Herramientas
 
-
+<img
+        align="left"
+        alt="Java"
+        width="30px"
+        style="padding-right:10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original"
+      />
 <img
         align="left"
         alt="Java"
