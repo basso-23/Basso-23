@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Soy un ingeniero de software interesado en estar siempre al día de las nuevas tecnologías que ofrece el mercado. Me motiva crear soluciones a problemas complejos y, a su vez, utilizar las mejores herramientas para que la experiencia del usuario sea la mejor posible. Todos mis proyectos y más los puedes encontrar en mi <span><a target="_blank" href="https://www.carlosbaso.com/">portafolio<a/><span/>.
+Soy un Ing. de Software interesado en estar siempre al día de las nuevas tecnologías que ofrece el mercado. Me motiva crear soluciones a problemas complejos y, a su vez, utilizar las mejores herramientas para que la experiencia del usuario sea la mejor posible. Todos mis proyectos y más los puedes encontrar en mi <span><a target="_blank" href="https://www.carlosbaso.com/">portafolio<a/><span/>.
 
 ### 🧰 Lenguajes y Herramientas
 
