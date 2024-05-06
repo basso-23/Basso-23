@@ -4,7 +4,7 @@
 
 Me motiva estar al día con las nuevas tecnologías en el ámbito del desarrollo, con una mentalidad abierta y capacidad para adaptarme rápidamente a los cambios. Dispuesto siempre a aprender cualquier tipo de nueva información con la mejor actitud y ganas de seguir creciendo.
 
-### 🧰 Lenguajes y Herramientas
+### 🧰 Lenguajes y Herramientas ###
 
 <img align="left"
         alt="tailwindcss"
