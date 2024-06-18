@@ -2,7 +2,7 @@
 
 **`Software Developer`** **`Web Developer`**
 
-Ing. de Software interesado en siempre estar al día de las nuevas tecnologías que ofrece el mercado. Disfruto de crear soluciones a problemas complejos y, a su vez, utilizar las mejores herramientas para que la experiencia del usuario sea la mejor posible. Todos mis proyectos y más los puedes encontrar en mi <span><a target="_blank" href="https://www.carlosbaso.com/">portafolio<a/><span/>.
+Ing. de Software con una mentalidad abierta y capacidad para adaptarme rápidamente a los cambios. Dispuesto siempre a aprender cualquier tipo de nueva información con la mejor actitud y ganas de seguir creciendo. Todos mis proyectos y más los puedes encontrar en mi <span><a target="_blank" href="https://www.carlosbaso.com/">portafolio<a/><span/>.
 
 ### 🧰 Lenguajes y Herramientas
 
