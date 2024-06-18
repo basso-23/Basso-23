@@ -2,7 +2,7 @@
 
 **`Software Developer`** **`Web Developer`**
 
-Ing. de Software con una mentalidad abierta y capacidad para adaptarme rápidamente a los cambios. Dispuesto siempre a aprender cualquier tipo de nueva información con la mejor actitud y ganas de seguir creciendo. Todos mis proyectos y más los puedes encontrar en mi <span><a target="_blank" href="https://www.carlosbaso.com/">portafolio<a/><span/>.
+Ing. de Software con una mentalidad abierta y capacidad para adaptarme rápidamente a los cambios. Dispuesto a siempre aprender cualquier tipo de nueva información con la mejor actitud y ganas de seguir creciendo. Todos mis proyectos y más los puedes encontrar en mi <span><a target="_blank" href="https://www.carlosbaso.com/">portafolio<a/><span/>.
 
 ### 🧰 Lenguajes y Herramientas
 
