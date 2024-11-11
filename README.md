@@ -2,7 +2,7 @@
 
 **`Software Developer`** **`Web Developer`**
 
-Programador especializado en desarrollo frontend, adaptable y comprometido con la mejora continua. Me aseguro de siempre entregar resultados de alta calidad, garantizando soluciones visualmente atractivas, funcionales y mantenibles en el tiempo. Todos mis proyectos y más los puedes encontrar en mi <span><a target="_blank" href="https://www.carlosbaso.com/">portafolio<a/><span/>.
+Programador especializado en desarrollo frontend, con gran capacidad para adaptarme a distintos proyectos y tecnologías, comprometido con la mejora continua. Me aseguro de siempre entregar resultados de alta calidad, garantizando soluciones visualmente atractivas, funcionales y mantenibles en el tiempo. Todos mis proyectos y más los puedes encontrar en mi <span><a target="_blank" href="https://www.carlosbaso.com/">portafolio<a/><span/>.
 
 ### 🧰 Lenguajes y Herramientas
 
