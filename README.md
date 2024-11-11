@@ -2,7 +2,7 @@
 
 **`Software Developer`** **`Web Developer`**
 
-Mentalidad abierta y enfoque en la adaptación continua. Me apasiona diseñar soluciones innovadoras para problemas complejos, aplicando principios de desarrollo robustos y utilizando herramientas modernas que optimicen tanto la calidad del software como la experiencia del usuario. Todos mis proyectos y más los puedes encontrar en mi <span><a target="_blank" href="https://www.carlosbaso.com/">portafolio<a/><span/>.
+Programador especializado en desarrollo frontend, adaptable y comprometido con la mejora continua. Me aseguro de siempre entregar resultados de alta calidad, garantizando soluciones visualmente atractivas, funcionales y mantenibles en el tiempo. Todos mis proyectos y más los puedes encontrar en mi <span><a target="_blank" href="https://www.carlosbaso.com/">portafolio<a/><span/>.
 
 ### 🧰 Lenguajes y Herramientas
 
