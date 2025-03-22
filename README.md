@@ -2,7 +2,7 @@
 
 **`Software Developer`** **`Web Developer`**
 
-Ingeniero de software especializado en desarrollo web, garantizo soluciones visualmente atractivas, funcionales y mantenibles en el tiempo. Todos mis proyectos y más los puedes encontrar en mi <span><a target="_blank" href="https://www.carlosbaso.com/">portafolio<a/><span/>.
+Ingeniero de software especializado en desarrollo web, garantizando soluciones visualmente atractivas, funcionales y mantenibles en el tiempo. Todos mis proyectos y más los puedes encontrar en mi <span><a target="_blank" href="https://www.carlosbaso.com/">portafolio<a/><span/>.
 
 ### 🧰 Lenguajes y Herramientas
 
